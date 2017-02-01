@@ -117,7 +117,8 @@ See the relevant code [here][5].
 In XenServer 7.0, to facilitate support of VGPU on Intel hardware in parallel
 with the existing NVIDIA support, VGPUs were made first-class objects in the
 xapi-xenopsd interface. The interface is described
-[here]({{site.baseurl}}/features/futures/gpu-support-evolution.html).
+[here]({{site.baseurl}}/features/futures/gpu-support-evolution.html) along with
+the further extension to support VGPU on AMD MxGPU hardware.
 
 ## VM startup
 
